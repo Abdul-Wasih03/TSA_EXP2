@@ -1,6 +1,8 @@
-# Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-### Date: 21/08/2024
+### Developed by: Syed Abdul Wasih H
+### Register Number: 212221240057
+### Date:
 
+# Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
